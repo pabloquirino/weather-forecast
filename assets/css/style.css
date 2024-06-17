@@ -29,6 +29,7 @@ body {
 /* form */
 .form h3 {
     margin-bottom: 1rem;
+    user-select: none;
 }
 
 .form-input-container {
@@ -54,6 +55,10 @@ body {
     cursor: pointer;
 }
 
+.form button:hover {
+    background-color: #69b9e4;
+}
+
 /* climate */
 #weather-data {
     border-top: 1px solid #fff;
@@ -67,4 +72,35 @@ body {
     justify-content: center;
     align-items: center;
     margin-bottom: .6rem;
+}
+
+#weather-data h2 i {
+    font-size: 1rem;
+}
+
+#weather-data span {
+    margin: .6rem;
+}
+
+#country {
+    height: 40px;
+}
+
+#description-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: .6rem 0;
+}
+
+#details-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#details-container #umidity {
+    border-right: 1px solid #fff;
+    margin: .6rem;
+    padding: .6rem;
 }
