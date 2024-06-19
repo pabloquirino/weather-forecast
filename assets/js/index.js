@@ -41,7 +41,7 @@ const showWeatherData = async (city) => {
     if (data.cod === "404") {
         showErrorMessage()
         return
-      }
+    }
 
     cityElement.innerText = data.name
     tempElement.innerText = parseInt(data.main.temp)
