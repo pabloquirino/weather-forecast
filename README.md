@@ -13,6 +13,6 @@ Contêm uma função assíncrona para esperar informações da API através de u
 [Previsão do tempo](https://pabloquirino.github.io/weather-forecast/)
 
 ### Captura de tela:
-![PrintScreen do projeto](/images/login.png)
+![PrintScreen do projeto](assets/images/print.png)
 
 
