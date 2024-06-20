@@ -4,8 +4,6 @@ Este projeto consiste em um Website que consulta uma [API meteorológica](https:
 ### Explicação da consulta da API:
 Contêm uma função assíncrona para esperar informações da API através de uma url personalizada, que é passada como Template Literal as variáveis que contenham a ${chave de API} e a ${cidade}, que foi escolhida pelo usuário no input.
 
-*Créditos da criação do layout e estilização para [codehal](https://www.youtube.com/@codehal)*
-
 ### Tecnologias utilizadas:
 - Html
 - Css
