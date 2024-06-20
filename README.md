@@ -21,7 +21,7 @@ Contêm uma função assíncrona para esperar informações da API através de u
 - **isPasswordValid()**: Retorna true se o score da função de checa a forca de senha é === 5.
 
 ### Veja o site aqui:
-[Previsão do tempo](https://pabloquirino.github.io/weather-forecast/src/)
+[Previsão do tempo](https://pabloquirino.github.io/weather-forecast/)
 
 ### Captura de tela:
 ![PrintScreen do projeto](/images/login.png)
