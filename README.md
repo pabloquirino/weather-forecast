@@ -9,8 +9,8 @@ Contêm uma função assíncrona para esperar informações da API através de u
 - Css
 - Javascript
 
-### Veja o site aqui:
-[Previsão do tempo](https://pabloquirino.github.io/weather-forecast/)
+### Para testar o site:
+Por questões de segurança a chave da API foi ignorada ao postar o projeto. Para ter acesso as funcionalidades do site, gere sua própria chave no site [API meteorológica](https://openweathermap.org/api) e substitua no arquivo index.js, a linha ´´´ ´´´
 
 ### Captura de tela:
 ![PrintScreen do projeto](assets/images/print.png)
