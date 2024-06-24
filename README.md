@@ -10,7 +10,7 @@ Contêm uma função assíncrona para esperar informações da API através de u
 - Javascript
 
 ### Para testar o site:
-Por questões de segurança a chave da API foi ignorada ao postar o projeto. Para ter acesso as funcionalidades do site, gere sua própria chave no site [API meteorológica](https://openweathermap.org/api) e substitua no arquivo index.js, a linha ´´´ ´´´
+Por questões de segurança a chave da API foi ignorada ao postar o projeto. Para ter acesso as funcionalidades do site, clone o repositório e gere sua própria chave no site [API meteorológica](https://openweathermap.org/api), substitua no arquivo index.js, a linha ``` import { apiKey } from './config.js' ``` por ``` const apiKey = 'sua-chave-API' ``` 
 
 ### Captura de tela:
 ![PrintScreen do projeto](assets/images/print.png)
